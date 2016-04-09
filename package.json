@@ -1,0 +1,11 @@
+{
+  "name": "deeper",
+  "version": "0.1.0",
+  "description": "A simple deep copying objects utility",
+  "main": "deeper.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Luca Maraschi",
+  "license": "ISC"
+}
